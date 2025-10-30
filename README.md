@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Law3ord3r
-- 👀 I’m interested in  Python
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Python
+- 👀 I’m interested in  C#
+- 🌱 I’m currently learning ...C#
+- 💞️ I’m looking to collaborate on ...C#
 - 📫 How to reach me ...natanlou@gmail.com
 
 <!---
