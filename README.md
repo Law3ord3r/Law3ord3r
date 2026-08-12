@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Law3ord3r
-- 👀 I’m interested in  Python e data science
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in AI and data science applied in physics
+- 🌱 I’m currently learning ...AI and Data science in python, superconductors
 - 💞️ I’m looking to collaborate on ...Python
 - 📫 How to reach me ...natanlou@gmail.com
 
